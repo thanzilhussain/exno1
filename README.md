@@ -122,4 +122,4 @@ plt.show()
 <img><img width="619" height="380" alt="image" src="https://github.com/user-attachments/assets/245b6959-86b2-41da-b14e-c4d2f2b30c7f" />
       
 # Result
-          <<include your Result here>>
+      The Data cleaning process is completed successfuly
